@@ -1,4 +1,4 @@
-// Copyright 2018 Your Name <your_email>
+// Copyright 2020 Porshdany
 #include <main.hpp>
 #include <constants.hpp>
 #include <logs.hpp>
